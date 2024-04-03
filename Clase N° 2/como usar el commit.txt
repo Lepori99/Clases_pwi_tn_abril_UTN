@@ -1,0 +1,6 @@
+Primero poner git init para que reconozca la carpeta y para poder tener el repositorio en la carpeta donde tengo el index.html.
+
+Segundo poner git add . (Para agregar todo)
+
+Tercero hacer un git commit -m 'comentario' (Para poder guardar el repositorio) 
+
