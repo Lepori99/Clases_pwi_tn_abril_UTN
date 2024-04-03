@@ -22,3 +22,17 @@ Listo, con esto tenemos nuestro repo en github con lo que hayamos subido
 -git commit -m 'comentario'
 -git push
 
+
+# Aclaraciones:
+
+**Si me equivoque al poner el git remote usamos el comando**
+
+-git remote set-url origin <URL_CORRECTA>
+
+**Podemos usar git status para obtener una informacion detallada del estado de nuestro repo**
+
+-git status
+
+**Para ver que origen remoto tengo**
+
+-git remote -v
