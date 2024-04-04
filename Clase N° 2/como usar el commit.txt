@@ -4,3 +4,28 @@ Segundo poner git add . (Para agregar todo)
 
 Tercero hacer un git commit -m 'comentario' (Para poder guardar el repositorio) 
 
+
+
+
+si empezamos desde 0:
+
+-git init (inicia git)
+
+-git add . (agrega todos los git)
+
+-git commit -m 'comentario' (comentario del repositorio)
+
+-git branch -M main (pone la rama en MAIN)
+
+
+DEBEMOS CREAR UN REPO EN GITHUB!!!
+
+
+-git remote add origin (coloco el https del repo de github)
+
+-git push -u origin main (envia al github)
+
+
+
+
+

@@ -36,3 +36,8 @@ Listo, con esto tenemos nuestro repo en github con lo que hayamos subido
 **Para ver que origen remoto tengo**
 
     *git remote -v
+
+
+# Para clonar un repositorio usar:
+
+    *git clone URL
