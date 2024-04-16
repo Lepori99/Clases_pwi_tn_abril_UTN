@@ -1,0 +1,25 @@
+body {
+
+}
+
+h2{
+    color: rgb(140, 0, 255);
+    font-size: 50px;
+}
+
+.subtitulo-especial { 
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#super-especial {
+    color: blue;
+}
+
+.super-especial {
+    color: cyan;
+}
+
+* { /* Selector universal */
+    font-family: sans-serif;
+}
